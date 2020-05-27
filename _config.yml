@@ -64,7 +64,6 @@ gitalk:
   clientSecret: e55549c874d2be4a956c52116e9edd1bcc20fd14    #生成的clientSecret
   repo: Surge-lin.github.io    #仓库名称
   owner: Surge-lin   #github用户名
-  admin:Surge-lin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
