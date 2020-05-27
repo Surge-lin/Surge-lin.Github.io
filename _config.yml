@@ -99,19 +99,18 @@ friends: [
         title: "Bilibili",
         href: "https://space.bilibili.com/189787781"
     },{
-        title: "Weibo",
-        href: "https://weibo.com/5345548687/profile?topnav=1&wvr=6"
+        title: "InsightTimer",
+        href: "https://insighttimer.com/"
     },{
         title: "早起生活",
         href: "https://www.hayaoki-seikatsu.com/users/jankin/"
     },{
         title: "胶囊日记",
         href: "http://www.timepill.net/"
-    }，{
+    },{
         title: "吾爱破解",
         href: "https://www.52pojie.cn"
-    }
-    ,{
+    },{
         title: "小众软件",
         href: "https://www.appinn.com"
     }
