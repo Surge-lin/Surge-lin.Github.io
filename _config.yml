@@ -105,7 +105,11 @@ friends: [
         title: "早起生活",
         href: "https://www.hayaoki-seikatsu.com/users/jankin/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "吾爱破解",
+        href: "https://www.52pojie.cn"
+    }
+    ,{
+        title: "小众软件",
+        href: "https://www.appinn.com"
     }
 ]
