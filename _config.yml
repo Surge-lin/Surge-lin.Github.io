@@ -97,14 +97,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "B站",
+        title: "Bilibili",
         href: "https://space.bilibili.com/189787781"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Weibo",
+        href: "https://weibo.com/5345548687/profile?topnav=1&wvr=6"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "早起生活",
+        href: "https://www.hayaoki-seikatsu.com/users/jankin/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
